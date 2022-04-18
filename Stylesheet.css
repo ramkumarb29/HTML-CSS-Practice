@@ -1,0 +1,42 @@
+h1{
+	color:green;
+	font:timesnewroman;
+}
+p:first-child
+{
+  color:purple;
+}
+p:nth-child(2)
+{
+	color:#87CEEB;
+}
+.yellow
+{
+	color:#808000;
+	font-family:cursive;
+}
+#rogue
+{
+	color:#FFA500;
+}
+a:link
+{
+	color:#87CEEB;
+}
+a:hover
+{
+	color:#808000;
+}
+a:visited
+{
+	color:#FFA500;
+}
+
+div div div
+{
+	height:20px;
+	width:50px;
+	border:2px solid black;
+	border-radius:5px;
+	display:inline-block;
+}

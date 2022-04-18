@@ -1,0 +1,36 @@
+
+.Weblayout > div {
+	padding;70px 0px;
+	line-height:200px;
+    text-align:center;
+	height:200px;
+	margin:5px 0;
+}
+.one
+{
+	text-align:center;
+ 	background-color:#FF0000;
+}
+.two
+{
+	float:left;
+	width:33.33%;
+	background-color:#FFA500;
+}
+.three
+{
+	float:left;
+	width:33.33%;
+	background-color:brown;
+}
+.four
+{
+	float:left;
+	width:33.33%;
+	background-color:grey;
+}
+.five
+{
+	clear:both;
+	background-color:yellow;
+}
